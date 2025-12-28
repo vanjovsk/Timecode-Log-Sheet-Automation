@@ -1,4 +1,12 @@
 #work in progress
+
+#To simplify the process, it could be created from a EDL export to the Timescode log sheet formated pdf.
+#working in this process
+#need to add a design template for the pdf including: scene number, description/scene name, start-time, end-time, total scene, total time.
+#itmust be 00:00:00:00
+
+
+
 #Before running the code, you will need to install the library via your terminal:
 
 #bash
